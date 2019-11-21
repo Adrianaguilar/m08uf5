@@ -1,0 +1,28 @@
+.info {
+    background-color:white;
+}
+
+.infor {
+    background-color: aqua;
+}
+
+.naci {
+    background-color: red;
+}
+
+.lin {
+    background-color: rgb(138, 214, 138);
+}
+
+.idi {
+    background-color: rgb(238, 119, 76);
+}
+
+.boton {
+    background-color: black;
+}
+
+.legend {
+    text-decoration: underline;
+    font-weight: bold;
+}
