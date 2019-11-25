@@ -9,3 +9,30 @@ table {
 td {
     border: 1px solid;
 }
+
+img{
+    width: 800px;
+    height: 480px;
+}
+
+h1{
+    text-align: center;
+}
+
+.t{
+    background-color: black;
+
+}
+
+a{
+    color:rgb(129, 59, 59);
+}
+
+a:hover{
+    color: green;
+}
+
+.l:hover{
+    color: green;
+    background-color:white ;
+}
