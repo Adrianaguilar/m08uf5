@@ -1,0 +1,38 @@
+#indice{
+    background-color: black;
+    height: 100%;
+    width: 20%;
+    position: relative;
+    
+}
+
+ul{
+    margin-top: 0px;
+}
+
+.cabecera{
+    background-color: blue;
+    width: 100%;
+text-align: center;
+}
+
+#baner{
+    background-color: grey;
+    height: 40%;
+    width: 14%;
+    position: absolute;
+    text-align: center;
+
+
+}
+
+#medio{
+    background-color: blueviolet;
+    height: 53.4%;
+    width: 60%;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255,248,0,1) 0%,   rgb(255, 0, 0) 50%, rgba(255,248,0,1) 100%);
+    position: absolute;
+    top: 286px;
+    right: 198px;
+}
