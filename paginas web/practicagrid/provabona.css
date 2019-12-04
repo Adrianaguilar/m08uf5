@@ -1,0 +1,33 @@
+div{
+    border: solid 1px black;
+}
+
+#primerdiv{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#goku1{
+    grid-column-start: 3;
+}
+
+#div2{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+  
+#termina {
+  grid-column-start: 1;
+  grid-column-end:4;
+  }
+
+
+  #div3 {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-column-start: 2;
+    grid-column-end: span 2;
+  }
