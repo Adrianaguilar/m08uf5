@@ -1,0 +1,64 @@
+main{
+    width: 830px;
+    height: 1500px;
+    border: 2px solid black;
+    background-color: #fef2cd;
+}
+#cab2{
+    position: absolute;
+    top:162px;
+    left: 8px;
+}
+
+#tit{
+    position: absolute;
+    top:123px;
+    left: 12px;
+    width: 811px;
+    
+}
+
+#izq1{
+    position: absolute;
+    top:192px;
+    left: 13px;
+    width: 200px;
+
+}
+
+#izq2{
+    position: absolute;
+    top: 310px;
+    left: 13px;
+    width: 200px;
+}
+
+#izq3{
+    position: absolute;
+    top:510px;
+    left: 13px;
+    width: 200px;
+
+}
+
+#med1{
+    position: absolute;
+    top:192px;
+    left: 110px;
+}
+
+#med2{
+    position: absolute;
+    top:270px;
+    left: 115px;
+    height: 740px;
+    width: 420px;
+}
+
+#med3{
+    position: absolute;
+    top: 643px;
+    left: 112px;
+    height: 150px;
+    width: 430px;
+}
