@@ -1,23 +1,22 @@
-
 div{
-    border: 5px solid white;
+    border: 2px solid white;
 }
-.green{
+.verde{
     background-color: green;
+    height: 80px;
 }
-
-.blue{
-    background-color: blue;
-}
-
-.pink{
-    background-color: pink;
-}
-
-.red{
+.rojo{
     background-color: red;
 }
-
-.orange{
+.naranja{
     background-color: orange;
+    height: 80px;
+}
+.rosa{
+    background-color: pink;
+    height: 80px;
+}
+.azul{
+    background-color: blue;
+    height: 80px;
 }
