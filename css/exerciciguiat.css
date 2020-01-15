@@ -1,0 +1,47 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.TIT{
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-size: 100px;
+}
+
+.uno{
+    background-color: orange;
+    color: seagreen;
+    float: left ;
+    width: 30%;
+    font-size: 20px;
+
+}
+
+.dos{
+    background-color: yellow;
+    color: blue;
+    float: left;
+    width: 70%;
+    font-size: 20px;
+
+}
+
+@media screen and (max-width: 768px){
+.uno{
+    width: 100%;
+
+}
+.dos{
+    width: 100%;
+}
+h1{
+  font-size: 35px;  
+
+}
+p{
+    font-size: 20px;
+}
+}
