@@ -1,6 +1,45 @@
-header{
+h1{
     background-color: blue;
     color: white;
     font-size: 50px;
     text-align: center;
+}
+h3{
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+.fotos{
+    text-align: center;
+}
+.rojo{
+    background-color: red;
+}
+
+.rosa{
+    background-color: pink;
+}
+.azul{
+    background-color: aquamarine;
+}
+.amarillo{
+    background-color: yellow;
+}
+
+
+footer{
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+.quitar{
+    margin-right: 0px; 
+    margin-left: 0px;
+}
+
+@media screen and (max-width:768px){
+    footer{
+        font-size: 1em;
+    }
 }
