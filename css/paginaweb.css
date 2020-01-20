@@ -1,5 +1,25 @@
 .navbar-light{
-    background-color: springgreen;
-    color: black;
+    background-color: #78866b;
 }
+h1{
+    color: orange;
+    text-align: center;
+}
+body{
+    background-image: url(../imagenes/fondo1.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+h3{
+    color: white;
+    background-color: rgb(6, 129, 111);
+    width: 20%; 
+    text-align: center;
+}
+.backcol{
+   color: skyblue;
+   width: 50%; 
+   text-align: justify;
 
+}
