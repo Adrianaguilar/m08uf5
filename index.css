@@ -1,15 +1,55 @@
 #indice{
-    background-color: greenyellow;
-    height: 100%;
-    width: 18%;
+    background-color: black;
+    height: 500px;
+    width: 20%;
+    position: relative;
+    
+}
+
+ul{
+    margin-top: 0px;
 }
 
 .cabecera{
-    background-color: red;
-    width: 100%;
-
+    background-color: blue;
+    width:100%;
+    height: 300px;
+    position: relative;
+    text-align: center
 }
 
 #baner{
     background-color: grey;
+    top: 320px;
+    right: 7px;
+    height: 455px;
+    width: 190px;
+    position: absolute;
+    text-align: center;
+}
+
+#medio{
+    background-color: blueviolet;
+    height: 455px;
+    width: 60%;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255,248,0,1) 0%,   rgb(255, 0, 0) 50%, rgba(255,248,0,1) 100%);
+    position: absolute;
+    top: 320px;
+    right: 197px;
+}
+
+
+#principal{
+    background-color: black;
+}
+
+ 
+.pie{
+    background-color: purple;
+    width:100.1%;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    top: -22px;
 }
