@@ -1,22 +1,33 @@
 .navbar-light{
     background-color: #78866b;
+    position: fixed;
+    top: 0;
+    width:100%;
+    z-index: 3;
 }
 h1{
     color: orange;
     text-align: center;
+    width: 100%;
+    margin-left: 5%;
+    font-size: 60px;
 }
+.alto{
+    height: 60px;
+}
+
 body{
     background-image: url(../imagenes/fondo1.jpg);
-    height: 100%;
-    width: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    min-height: 800px;
 }
 h3{
     color: white;
     background-color: rgb(6, 129, 111);
     width: 47%; 
     text-align: center;
+    margin-top: 10%;
 
 }
 .backcol{
@@ -24,6 +35,7 @@ h3{
    /*width: 100%; */
    text-align: justify;
    background-color: rgba(40, 167, 15, 0.3);
+   margin-top: 12%;
 
 }
 
@@ -31,19 +43,8 @@ iframe{
     margin-left: 0%;
     position: absolute;
     top: 11.5%;
+    margin-top: 11%;
+
 }
 
-h4{
-    color: white;
-    background-color: red;
-    text-align: center;
-    display: block;
-    margin: auto;
-    margin-left: 85px;
-    margin-right: 85px;
-}
 
-#rangos{
-    display: block;
-    margin: auto;
-}

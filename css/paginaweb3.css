@@ -1,0 +1,15 @@
+.navbar-light{
+    background-color: #78866b;
+    position: fixed;
+    top: 0;
+    width:100%;
+    z-index: 3;
+}
+body{
+    background-image: url(../imagenes/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 800px;
+    font-family: 'Permanent Marker', cursive;
+
+}
